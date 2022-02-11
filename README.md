@@ -1,6 +1,7 @@
 - 👋 Hi, I’m **@AlexThon**
 - 👀 I’m a junior software developer. I recenly completed a coding bootcamp and I am now looking for opportunities to use my skills 
-- 🌱 I am now learning TypeScript to eliminate unnecessary errors in my programs, also learning data structures is another interest of mine
+- 🌱 I am now learning TypeScript to eliminate unnecessary errors in my programs
+- Also learning data structures 
 - 📫 You can connect with me on twitter __@onlython__
 
 <!---
